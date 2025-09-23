@@ -43,3 +43,10 @@ By predicting mercury concentrations, this project supports:
 
 ---
 
+## Data Source  
+
+The dataset used in this project was obtained from the [USGS / EPA STORET Data Repository – Englebright Lake Mercury Monitoring Project](https://www.ebi.ac.uk/biostudies/ArrayExpress/studies/E-MTAB-9534?query=cancer) (accessed September 2025).  
+
+All rights and credits belong to the original data providers.  
+
+
