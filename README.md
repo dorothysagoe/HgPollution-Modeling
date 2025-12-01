@@ -4,7 +4,7 @@ Machine learning models for predicting methylmercury levels in Ghana’s water b
 # MercuryML-Ghana
 
 **MercuryML-Ghana** is a machine learning project focused on predicting **methylmercury (MeHg) concentrations** in Ghana’s water bodies.  
-The project is motivated by the **galamsey (illegal mining) crisis**, which has led to mercury contamination of rivers, lakes, and groundwater — threatening human health, aquatic life, and sustainable livelihoods.
+The project is motivated by the **galamsey (illegal mining) crisis**, which has led to mercury contamination of rivers, lakes, and groundwater, threatening human health, aquatic life, and sustainable livelihoods.
 
 ## Problem 
 Illegal small-scale gold mining (galamsey) uses mercury in the extraction process. Mercury often leaches into water bodies, where it is converted by microbes into **methylmercury**, a neurotoxic compound that bioaccumulates in fish and threatens communities who depend on these waters.  
